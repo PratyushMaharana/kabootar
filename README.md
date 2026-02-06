@@ -18,7 +18,7 @@ Seasonal variations in vocal behavior can also be studied to understand how bird
 
 # 2.Machine Learning for Automated Analysis
 
-Implementing deep learning models for automated bird call classification can improve accuracy in identifying vocal adaptations.
+Implementing KNN machine learning models for automated bird call classification can improve accuracy in identifying vocal adaptations.
 AI-powered analysis can be used for real-time monitoring of urban biodiversity.
 
 # 3.Impact on Bird Communication & Survival
